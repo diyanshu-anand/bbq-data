@@ -17,10 +17,12 @@ jobs:
         run: pip install requests
       - name: Run fetch script
         run: python fetch_all_data.py
-      - name: Commit and push JSON
+      - name: Commit and push if changed
         run: |
           git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
+          git config user.email "action@github.com"
+          git pull origin main --rebase || true
           git add buffet_data.json
           git commit -m "Auto-update buffet data" || echo "No changes to commit"
-          git push
+          git push origin main || (git pull --rebase && git push origin main)
+
