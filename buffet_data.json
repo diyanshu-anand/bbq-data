@@ -1,0 +1,72 @@
+[
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2025-10-28",
+    "Slot Time": "12:00:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2025-10-28",
+    "Slot Time": "12:30:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2025-10-28",
+    "Slot Time": "13:00:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2025-10-28",
+    "Slot Time": "13:30:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2025-10-28",
+    "Slot Time": "14:00:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2025-10-28",
+    "Slot Time": "12:00:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2025-10-28",
+    "Slot Time": "12:30:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2025-10-28",
+    "Slot Time": "13:00:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2025-10-28",
+    "Slot Time": "13:30:00",
+    "Error": "Failed to fetch"
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2025-10-28",
+    "Slot Time": "14:00:00",
+    "Error": "Failed to fetch"
+  }
+]
