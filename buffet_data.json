@@ -496,47 +496,6 @@
     "Branch ID": "133",
     "Date": "2025-11-01",
     "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "VEG",
-    "Plan": "VEG",
-    "Price": 799,
-    "Original Price": 799
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-11-01",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 799,
-    "Original Price": 799
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-11-01",
-    "Slot Time": "14:00:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Sizzling 7 @777",
-    "Price": 777,
-    "Original Price": 777
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-11-01",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Child",
-    "Food Type": "VEG",
-    "Plan": "Kid (6-9 years)",
-    "Price": 469,
-    "Original Price": 469
+    "Error": "Failed to fetch"
   }
 ]
