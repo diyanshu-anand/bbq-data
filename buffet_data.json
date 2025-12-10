@@ -391,18 +391,6 @@
     "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Sizzling 5 @555",
-    "Price": 555,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-12-10",
-    "Slot Time": "12:00:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 499,
     "Original Price": 599
@@ -451,18 +439,6 @@
     "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Sizzling 5 @555",
-    "Price": 555,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-12-10",
-    "Slot Time": "12:30:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 499,
     "Original Price": 599
@@ -511,18 +487,6 @@
     "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Sizzling 5 @555",
-    "Price": 555,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-12-10",
-    "Slot Time": "13:00:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 499,
     "Original Price": 599
@@ -571,18 +535,6 @@
     "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Sizzling 5 @555",
-    "Price": 555,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-12-10",
-    "Slot Time": "13:30:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 499,
     "Original Price": 599
@@ -621,18 +573,6 @@
     "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2025-12-10",
-    "Slot Time": "14:00:00",
-    "Period": "Early Bird Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Sizzling 5 @555",
-    "Price": 555,
     "Original Price": 599
   },
   {
