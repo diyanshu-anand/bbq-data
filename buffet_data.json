@@ -55,18 +55,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 799,
-    "Original Price": 899
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-01-08",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@3099)",
     "Price": 775,
     "Original Price": 899
@@ -141,18 +129,6 @@
     "Food Type": "NON-VEG",
     "Plan": "Sizzling 7 @777",
     "Price": 777,
-    "Original Price": 899
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-01-08",
-    "Slot Time": "12:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 799,
     "Original Price": 899
   },
   {
@@ -247,18 +223,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 799,
-    "Original Price": 899
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-01-08",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@3099)",
     "Price": 775,
     "Original Price": 899
@@ -333,18 +297,6 @@
     "Food Type": "NON-VEG",
     "Plan": "Sizzling 7 @777",
     "Price": 777,
-    "Original Price": 899
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-01-08",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 799,
     "Original Price": 899
   },
   {
@@ -439,18 +391,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 799,
-    "Original Price": 899
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-01-08",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@3099)",
     "Price": 775,
     "Original Price": 899
@@ -511,18 +451,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-01-08",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@2199)",
     "Price": 550,
     "Original Price": 599
@@ -571,18 +499,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-01-08",
-    "Slot Time": "12:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@2199)",
     "Price": 550,
     "Original Price": 599
@@ -631,18 +547,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-01-08",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@2199)",
     "Price": 550,
     "Original Price": 599
@@ -691,18 +595,6 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-01-08",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
     "Plan": "New year Bonanza (4@2199)",
     "Price": 550,
     "Original Price": 599
@@ -740,18 +632,6 @@
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-01-08",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
     "Price": 599,
     "Original Price": 599
   },
