@@ -7,6 +7,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Unlimited Drinks & Buffet",
+    "Price": 1799,
+    "Original Price": 1799
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-01-24",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 999,
     "Original Price": 999
@@ -79,6 +91,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Unlimited Drinks & Buffet",
+    "Price": 1799,
+    "Original Price": 1799
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-01-24",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 999,
     "Original Price": 999
@@ -151,6 +175,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Unlimited Drinks & Buffet",
+    "Price": 1799,
+    "Original Price": 1799
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-01-24",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 999,
     "Original Price": 999
@@ -223,6 +259,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Unlimited Drinks & Buffet",
+    "Price": 1799,
+    "Original Price": 1799
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-01-24",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 999,
     "Original Price": 999
@@ -286,6 +334,18 @@
     "Plan": "Kid (6-9 years)",
     "Price": 499,
     "Original Price": 499
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-01-24",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Unlimited Drinks & Buffet",
+    "Price": 1799,
+    "Original Price": 1799
   },
   {
     "Branch": "Koramangala",
