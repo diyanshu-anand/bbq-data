@@ -496,47 +496,6 @@
     "Branch ID": "133",
     "Date": "2026-02-09",
     "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-09",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "VEG",
-    "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-09",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@2299)",
-    "Price": 575,
-    "Original Price": 599
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-09",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Child",
-    "Food Type": "VEG",
-    "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
+    "Error": "Failed to fetch"
   }
 ]
