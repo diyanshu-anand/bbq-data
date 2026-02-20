@@ -6,18 +6,6 @@
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 999,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
     "Price": 899,
@@ -31,6 +19,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 999,
+    "Original Price": 999
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-02-20",
+    "Slot Time": "12:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Sizzling 8 @888",
     "Price": 888,
     "Original Price": 999
@@ -40,23 +40,11 @@
     "Branch ID": "14",
     "Date": "2026-02-20",
     "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@3499)",
-    "Price": 875,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
-    "Price": 849,
+    "Price": 799,
     "Original Price": 999
   },
   {
@@ -68,20 +56,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 499,
-    "Original Price": 499
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "12:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 999,
-    "Original Price": 999
+    "Price": 429,
+    "Original Price": 429
   },
   {
     "Branch": "Koramangala",
@@ -103,6 +79,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 999,
+    "Original Price": 999
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-02-20",
+    "Slot Time": "12:30:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Sizzling 8 @888",
     "Price": 888,
     "Original Price": 999
@@ -112,23 +100,11 @@
     "Branch ID": "14",
     "Date": "2026-02-20",
     "Slot Time": "12:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@3499)",
-    "Price": 875,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "12:30:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
-    "Price": 849,
+    "Price": 799,
     "Original Price": 999
   },
   {
@@ -140,20 +116,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 499,
-    "Original Price": 499
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 999,
-    "Original Price": 999
+    "Price": 429,
+    "Original Price": 429
   },
   {
     "Branch": "Koramangala",
@@ -175,6 +139,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 999,
+    "Original Price": 999
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-02-20",
+    "Slot Time": "13:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Sizzling 8 @888",
     "Price": 888,
     "Original Price": 999
@@ -184,23 +160,11 @@
     "Branch ID": "14",
     "Date": "2026-02-20",
     "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@3499)",
-    "Price": 875,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
-    "Price": 849,
+    "Price": 799,
     "Original Price": 999
   },
   {
@@ -212,20 +176,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 499,
-    "Original Price": 499
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 999,
-    "Original Price": 999
+    "Price": 429,
+    "Original Price": 429
   },
   {
     "Branch": "Koramangala",
@@ -247,6 +199,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 999,
+    "Original Price": 999
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-02-20",
+    "Slot Time": "13:30:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Sizzling 8 @888",
     "Price": 888,
     "Original Price": 999
@@ -256,23 +220,11 @@
     "Branch ID": "14",
     "Date": "2026-02-20",
     "Slot Time": "13:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@3499)",
-    "Price": 875,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
-    "Price": 849,
+    "Price": 799,
     "Original Price": 999
   },
   {
@@ -284,20 +236,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 499,
-    "Original Price": 499
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 999,
-    "Original Price": 999
+    "Price": 429,
+    "Original Price": 429
   },
   {
     "Branch": "Koramangala",
@@ -319,6 +259,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 999,
+    "Original Price": 999
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-02-20",
+    "Slot Time": "14:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Sizzling 8 @888",
     "Price": 888,
     "Original Price": 999
@@ -328,23 +280,11 @@
     "Branch ID": "14",
     "Date": "2026-02-20",
     "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "20th Anniversary(4@3499)",
-    "Price": 875,
-    "Original Price": 999
-  },
-  {
-    "Branch": "Koramangala",
-    "Branch ID": "14",
-    "Date": "2026-02-20",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
-    "Price": 849,
+    "Price": 799,
     "Original Price": 999
   },
   {
@@ -356,20 +296,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 499,
-    "Original Price": 499
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-20",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 429,
+    "Original Price": 429
   },
   {
     "Branch": "Indiranagar",
@@ -389,11 +317,47 @@
     "Date": "2026-02-20",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "12:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
+    "Price": 469,
+    "Original Price": 469
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "VEG",
+    "Plan": "VEG",
+    "Price": 599,
+    "Original Price": 599
   },
   {
     "Branch": "Indiranagar",
@@ -412,10 +376,10 @@
     "Branch ID": "133",
     "Date": "2026-02-20",
     "Slot Time": "12:30:00",
-    "Period": "Lunch",
+    "Period": "Early Bird Lunch",
     "Customer Type": "Adult",
-    "Food Type": "VEG",
-    "Plan": "VEG",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
     "Price": 599,
     "Original Price": 599
   },
@@ -428,20 +392,8 @@
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-20",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 469,
+    "Original Price": 469
   },
   {
     "Branch": "Indiranagar",
@@ -461,23 +413,35 @@
     "Date": "2026-02-20",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
-    "Customer Type": "Child",
-    "Food Type": "VEG",
-    "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-20",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
     "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "13:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Child",
+    "Food Type": "VEG",
+    "Plan": "Kid (6-9 years)",
+    "Price": 469,
+    "Original Price": 469
   },
   {
     "Branch": "Indiranagar",
@@ -497,23 +461,35 @@
     "Date": "2026-02-20",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
-    "Customer Type": "Child",
-    "Food Type": "VEG",
-    "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-02-20",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
     "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "13:30:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Child",
+    "Food Type": "VEG",
+    "Plan": "Kid (6-9 years)",
+    "Price": 469,
+    "Original Price": 469
   },
   {
     "Branch": "Indiranagar",
@@ -533,10 +509,34 @@
     "Date": "2026-02-20",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "14:00:00",
+    "Period": "Early Bird Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 599,
+    "Original Price": 599
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-02-20",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
-    "Price": 399,
-    "Original Price": 399
+    "Price": 469,
+    "Original Price": 469
   }
 ]
