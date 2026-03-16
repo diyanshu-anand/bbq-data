@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16 11:05:15",
+  "generated_at": "2026-03-17 00:12:33",
   "records": [
     {
       "Branch": "City Plaza Building, Abids",
@@ -332687,6 +332687,30 @@
       "Food Type": "NON-VEG",
       "Plan": "NON-VEG",
       "Price": 799,
+      "Original Price": 799
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-17",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "VEG",
+      "Plan": "VEG",
+      "Price": 749,
+      "Original Price": 749
+    },
+    {
+      "Branch": "Grand HighStreet Mall, Hinjewadi",
+      "Branch ID": "269",
+      "Date": "2026-03-17",
+      "Slot Time": "20:30:00",
+      "Period": "Dinner",
+      "Customer Type": "Adult",
+      "Food Type": "NON-VEG",
+      "Plan": "Sizzling 7 @777",
+      "Price": 777,
       "Original Price": 799
     }
   ]
