@@ -41,6 +41,18 @@
     "Date": "2026-03-18",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "March Mania(4@2399)",
+    "Price": 600,
+    "Original Price": 649
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-03-18",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
@@ -89,6 +101,18 @@
     "Date": "2026-03-18",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "March Mania(4@2399)",
+    "Price": 600,
+    "Original Price": 649
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-03-18",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
@@ -137,6 +161,18 @@
     "Date": "2026-03-18",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "March Mania(4@2399)",
+    "Price": 600,
+    "Original Price": 649
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-03-18",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
     "Customer Type": "Child",
     "Food Type": "VEG",
     "Plan": "Kid (6-9 years)",
@@ -177,6 +213,18 @@
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 599,
+    "Original Price": 649
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-03-18",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "March Mania(4@2399)",
+    "Price": 600,
     "Original Price": 649
   },
   {
@@ -225,6 +273,18 @@
     "Food Type": "NON-VEG",
     "Plan": "Student (10-21 yrs)",
     "Price": 599,
+    "Original Price": 649
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-03-18",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "March Mania(4@2399)",
+    "Price": 600,
     "Original Price": 649
   },
   {
