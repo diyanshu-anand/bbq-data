@@ -7,7 +7,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2599)",
+    "Plan": "Raining Deal(4@2599)",
     "Price": 649,
     "Original Price": 699
   },
@@ -79,7 +79,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2599)",
+    "Plan": "Raining Deal(4@2599)",
     "Price": 649,
     "Original Price": 699
   },
@@ -151,7 +151,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2599)",
+    "Plan": "Raining Deal(4@2599)",
     "Price": 649,
     "Original Price": 699
   },
@@ -223,7 +223,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2599)",
+    "Plan": "Raining Deal(4@2599)",
     "Price": 649,
     "Original Price": 699
   },
@@ -295,7 +295,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2599)",
+    "Plan": "Raining Deal(4@2599)",
     "Price": 649,
     "Original Price": 699
   },
@@ -366,18 +366,6 @@
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2399)",
-    "Price": 599,
-    "Original Price": 649
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-07-10",
-    "Slot Time": "12:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
     "Price": 599,
@@ -418,18 +406,6 @@
     "Plan": "Kid (6-9 years)",
     "Price": 399,
     "Original Price": 399
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-07-10",
-    "Slot Time": "12:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2399)",
-    "Price": 599,
-    "Original Price": 649
   },
   {
     "Branch": "Indiranagar",
@@ -486,18 +462,6 @@
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2399)",
-    "Price": 599,
-    "Original Price": 649
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-07-10",
-    "Slot Time": "13:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
     "Price": 599,
@@ -546,18 +510,6 @@
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2399)",
-    "Price": 599,
-    "Original Price": 649
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-07-10",
-    "Slot Time": "13:30:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
     "Price": 599,
@@ -598,18 +550,6 @@
     "Plan": "Kid (6-9 years)",
     "Price": 399,
     "Original Price": 399
-  },
-  {
-    "Branch": "Indiranagar",
-    "Branch ID": "133",
-    "Date": "2026-07-10",
-    "Slot Time": "14:00:00",
-    "Period": "Lunch",
-    "Customer Type": "Adult",
-    "Food Type": "NON-VEG",
-    "Plan": "Hottest Deal(4@2399)",
-    "Price": 599,
-    "Original Price": 649
   },
   {
     "Branch": "Indiranagar",
