@@ -7,6 +7,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-07",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
     "Original Price": 599
@@ -34,6 +46,18 @@
     "Plan": "Kid (6-9 years)",
     "Price": 399,
     "Original Price": 399
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-07",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
   },
   {
     "Branch": "Koramangala",
@@ -79,6 +103,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-07",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
     "Original Price": 599
@@ -106,6 +142,18 @@
     "Plan": "Kid (6-9 years)",
     "Price": 399,
     "Original Price": 399
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-07",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
   },
   {
     "Branch": "Koramangala",
@@ -151,6 +199,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-07",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "NON-VEG",
     "Price": 599,
     "Original Price": 599
@@ -187,6 +247,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-09-07",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Teachers Day(4@2519)",
     "Price": 630,
     "Original Price": 669
@@ -247,6 +319,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-09-07",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Teachers Day(4@2519)",
     "Price": 630,
     "Original Price": 669
@@ -307,6 +391,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-09-07",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Teachers Day(4@2519)",
     "Price": 630,
     "Original Price": 669
@@ -367,6 +463,18 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-09-07",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
     "Plan": "Teachers Day(4@2519)",
     "Price": 630,
     "Original Price": 669
@@ -418,6 +526,18 @@
     "Plan": "Kid (6-9 years)",
     "Price": 399,
     "Original Price": 399
+  },
+  {
+    "Branch": "Indiranagar",
+    "Branch ID": "133",
+    "Date": "2026-09-07",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Senior Citizen(60+Yrs)",
+    "Price": 499,
+    "Original Price": 499
   },
   {
     "Branch": "Indiranagar",
