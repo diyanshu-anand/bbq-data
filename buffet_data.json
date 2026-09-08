@@ -2,7 +2,7 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -14,31 +14,67 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Plan": "Teachers Day(4@2599)",
+    "Price": 650,
+    "Original Price": 699
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Super 6 @666",
+    "Price": 666,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 649,
+    "Original Price": 649
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 699,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
+    "Slot Time": "12:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 649,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -50,7 +86,7 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -62,31 +98,67 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Plan": "Teachers Day(4@2599)",
+    "Price": 650,
+    "Original Price": 699
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Super 6 @666",
+    "Price": 666,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 649,
+    "Original Price": 649
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 699,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
+    "Slot Time": "12:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 649,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -98,7 +170,7 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -110,31 +182,67 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Plan": "Teachers Day(4@2599)",
+    "Price": 650,
+    "Original Price": 699
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Super 6 @666",
+    "Price": 666,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 649,
+    "Original Price": 649
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 699,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
+    "Slot Time": "13:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 649,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -146,7 +254,7 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -158,31 +266,67 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Plan": "Teachers Day(4@2599)",
+    "Price": 650,
+    "Original Price": 699
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Super 6 @666",
+    "Price": 666,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 649,
+    "Original Price": 649
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 699,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
+    "Slot Time": "13:30:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 649,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -194,7 +338,7 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -206,31 +350,67 @@
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "NON-VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Plan": "Teachers Day(4@2599)",
+    "Price": 650,
+    "Original Price": 699
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Super 6 @666",
+    "Price": 666,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "VEG",
     "Plan": "VEG",
-    "Price": 599,
-    "Original Price": 599
+    "Price": 649,
+    "Original Price": 649
   },
   {
     "Branch": "Koramangala",
     "Branch ID": "14",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "NON-VEG",
+    "Price": 699,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
+    "Slot Time": "14:00:00",
+    "Period": "Lunch",
+    "Customer Type": "Adult",
+    "Food Type": "NON-VEG",
+    "Plan": "Student (10-21 yrs)",
+    "Price": 649,
+    "Original Price": 699
+  },
+  {
+    "Branch": "Koramangala",
+    "Branch ID": "14",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -242,7 +422,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -254,7 +434,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -266,7 +446,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -278,7 +458,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -290,7 +470,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -302,7 +482,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -314,7 +494,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -326,7 +506,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -338,7 +518,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -350,7 +530,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -362,7 +542,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -374,7 +554,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "12:30:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -386,7 +566,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -398,7 +578,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -410,7 +590,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -422,7 +602,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -434,7 +614,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -446,7 +626,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -458,7 +638,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -470,7 +650,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -482,7 +662,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -494,7 +674,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -506,7 +686,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -518,7 +698,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "13:30:00",
     "Period": "Lunch",
     "Customer Type": "Child",
@@ -530,7 +710,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -542,7 +722,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -554,7 +734,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -566,7 +746,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -578,7 +758,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Adult",
@@ -590,7 +770,7 @@
   {
     "Branch": "Indiranagar",
     "Branch ID": "133",
-    "Date": "2026-09-07",
+    "Date": "2026-09-08",
     "Slot Time": "14:00:00",
     "Period": "Lunch",
     "Customer Type": "Child",
