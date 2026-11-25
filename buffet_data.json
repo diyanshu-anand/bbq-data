@@ -7,7 +7,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
+    "Plan": "Veg / Non-Veg",
     "Price": 709,
     "Original Price": 739
   },
@@ -43,7 +43,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2699)",
+    "Plan": "Black Friday(4@2699)",
     "Price": 675,
     "Original Price": 739
   },
@@ -127,7 +127,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2699)",
+    "Plan": "Black Friday(4@2699)",
     "Price": 675,
     "Original Price": 739
   },
@@ -211,7 +211,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2699)",
+    "Plan": "Black Friday(4@2699)",
     "Price": 675,
     "Original Price": 739
   },
@@ -295,7 +295,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2699)",
+    "Plan": "Black Friday(4@2699)",
     "Price": 675,
     "Original Price": 739
   },
@@ -367,7 +367,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "VEG / NON-VEG",
+    "Plan": "Veg / Non-Veg",
     "Price": 659,
     "Original Price": 689
   },
@@ -391,7 +391,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2599)",
+    "Plan": "Black Friday(4@2599)",
     "Price": 650,
     "Original Price": 689
   },
@@ -463,7 +463,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2599)",
+    "Plan": "Black Friday(4@2599)",
     "Price": 650,
     "Original Price": 689
   },
@@ -535,7 +535,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2599)",
+    "Plan": "Black Friday(4@2599)",
     "Price": 650,
     "Original Price": 689
   },
@@ -607,7 +607,7 @@
     "Period": "Lunch",
     "Customer Type": "Adult",
     "Food Type": "NON-VEG",
-    "Plan": "Family Special(4@2599)",
+    "Plan": "Black Friday(4@2599)",
     "Price": 650,
     "Original Price": 689
   },
